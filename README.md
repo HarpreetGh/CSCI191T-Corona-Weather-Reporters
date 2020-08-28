@@ -21,5 +21,7 @@ The research conducted in this report consists of data from January to April dur
    - LaTeX files, PDF, graph images for our report.
 3. Folder: Gannt Chart & Workflow
    - Ganttchart workflow depicting the flow and schedule for this project.
-4. File: The Study of Weather Effects on COVID-19
+4. File: COVID Weather.ppt
+   - Powerpoint presentation of our research
+5. File: The Study of Weather Effects on COVID-19.pdf
    - PDF that reports our findings.
