@@ -12,5 +12,11 @@ information extracted from the datasets for mortality rate, ozone levels, and hu
 showed high COVID-19 mortality rate across latitude 40° with generally warm weather patterns.
 
 #### Files included in this repository are:
-  1. Folder:CSCI_191T_Code
-    -Ganttchart workflow depicting the flow and schedule for this project. 
+  
+1. Folder: CSCI_191T_Code
+   - Python Files (.ipynb) ran on Jupyter Notebook and .csv files with their respective links to their data sets
+2. Folder: Data-Divers-Report
+   - LaTeX files, PDF, graph images for our report.
+3. Folder: Gannt Chart & Workflow
+   - Ganttchart workflow depicting the flow and schedule for this project.
+
