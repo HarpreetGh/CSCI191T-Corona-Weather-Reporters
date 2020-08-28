@@ -1,19 +1,19 @@
-**File: CSCI_191T_Pie_Chart**
+File: CSCI_191T_Pie_Chart
   -To run this code you must use file global_covid19_mortality_rates.csv from dataset 2. This file also requires matplotlib library to plot the piechart. This file also outputs a csv file covid_countries.csv which is used in the rest of the files
 
-**File: CSCI_191T_Corona_Mortality_Rate_Globally_Predictive_Analytics**
+File: CSCI_191T_Corona_Mortality_Rate_Globally_Predictive_Analytics
   -To run this file you must use dataset global_covid19_mortality_rates.csv 2. Then, run each code block for mean, median, mode, standard deviation, variance, and description of the variables Confirmed and Mortality Rate. Use libraries like numpy and pandas. Run each code block for plotting x and y labels for Confirmed and Mortality Rate. Run each code block for slope, y-intercept, and linear regression. Again, run each code block for centroid for x and y. Run each code block for finding the centroid on a linear regression line. Run each code block for predict countries with confirmed cases greater than 1000 to predict mortality rate. Then, run each code block for mean, median, mode, standard deviation, variance, and description of the variables Latitude and Mortality Rate. Run each code block for slope, y-intercept, and linear regression. Again, run each code block for centroid for x and y. Run each code block for finding the centroid on a linear regression line. Run each code block to predict mortality rate of countries with latitude greater than 20.
 
-**File: CSCI_191T_Ozone_Cleaning**
+File: CSCI_191T_Ozone_Cleaning
   -Use Ozone.csv from kaggle 1. Then run all the blocks. The code will remove duplicates, and countries that don't have at least 10,000 cases. The program will save the dataset as ozoneFinal.csv which you will use in the next function
 
-**File: CSCI_191T_Ozone_Corona_Virus_Cases_Predictive_Analysis** 
+File: CSCI_191T_Ozone_Corona_Virus_Cases_Predictive_Analysis
   -To run this file you must use dataset ozoneFinal.csv from the Ozone_cleaning file, as well as covid_countries.csv from Pie_Chart Then, run each code block for mean, median, mode, standard deviation, variance, and description of the variables Ozone and 3/14/20. Use libraries like numpy and pandas. Run each code block for plotting x and y labels for Ozone and 3/14/20. Run each code block for slope, y-intercept, and linear regression. Again, run each code block for centroid for x and y. Run each code block for finding the centroid on a linear regression line. Run each code block to predict ozone level of latitude of countries greater than 20 on 3/14/20. Then, run each code block for mean, median, mode, standard deviation, variance, and description of the variables Ozone and 2/6/20. Run each code block for slope, y-intercept, and linear regression. Again, run each code block for centroid for x and y. Run each code block for finding the centroid on a linear regression line. Run each code block to predict ozone level of latitude of countries greater than 20 on 2/6/20. 
 
-**File: CSCI_191T_Humidity_Corona_Virus_Cases_Predictive_Analysis**
+File: CSCI_191T_Humidity_Corona_Virus_Cases_Predictive_Analysis
   -To run this file you must use dataset humidity.csv 1. ozoneFinal.csv from File: CSCI_191T_Ozone_Cleaning, and covid_counties.csv Then, run each code block for mean, median, mode, standard deviation, variance, and description of the variables Humidity and 3/14/20. Use libraries like numpy and pandas. Run each code block for plotting x and y labels for Humidity and 3/14/20. Run each code block for slope, y-intercept, and linear regression. Again, run each code block for centroid for x and y. Run each code block for finding the centroid on a linear regression line. Run each code block to predict humidity of countries' latitudes greater than 20 on 3/14/20. Then, run each code block for mean, median, mode, standard deviation, variance, and description of the variables Humidity and 2/6/20. Run each code block for slope, y-intercept, and linear regression. Again, run each code block for centroid for x and y. Run each code block for finding the centroid on a linear regression line. Run each code block to predict humidity of countries' latitudes greater than 20 on 2/6/20.
 
-**Datasets:**
+Datasets:
 1. https://www.kaggle.com/eeemonts/weatherclimate-data-covid19 
 2. https://www.kaggle.com/paultimothymooney/coronavirus-covid19-mortality-rate-by-country
 3. https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset
