@@ -14,7 +14,9 @@ showed high COVID-19 mortality rate across latitude 40° with generally warm wea
 The research conducted in this report consists of data from January to April during the early beginnings of the COVID-19 Pandemic.
 
 #### Files included in this repository are:
-  
+
+**NOTE: EACH FILE HAS A README FOR ALL USED FILES.**
+
 1. Folder: CSCI_191T_Code
    - Python Files (.ipynb) ran on Jupyter Notebook and .csv files with their respective links to their data sets
 2. Folder: Data-Divers-Report
