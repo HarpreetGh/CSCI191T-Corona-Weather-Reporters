@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Hopcroft-Khan-2003}
+\bibinfo{author}{John}, \bibinfo{author}{Khan, O.}, \bibinfo{author}{Kulis, B.}
+  \& \bibinfo{author}{Selman, B.}
+\newblock \bibinfo{title}{Natural communities in large linked networks}.
+\newblock In \emph{\bibinfo{booktitle}{Proceedings of the ninth ACM SIGKDD
+  international conference on Knowledge discovery and data mining}},
+  \bibinfo{pages}{541--546} (\bibinfo{organization}{ACM},
+  \bibinfo{year}{2003}).
+
+\end{thebibliography}
