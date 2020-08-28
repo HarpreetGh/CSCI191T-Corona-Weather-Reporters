@@ -25,3 +25,6 @@ The research conducted in this report consists of data from January to April dur
    - Powerpoint presentation of our research
 5. File: The Study of Weather Effects on COVID-19.pdf
    - PDF that reports our findings.
+
+##### Video link of a powerpoint presentation video showcasing the results of our research
+https://www.youtube.com/watch?v=FZWvUl3U1Zs
