@@ -19,4 +19,5 @@ showed high COVID-19 mortality rate across latitude 40° with generally warm wea
    - LaTeX files, PDF, graph images for our report.
 3. Folder: Gannt Chart & Workflow
    - Ganttchart workflow depicting the flow and schedule for this project.
-
+4. File: The Study of Weather Effects on COVID-19
+   - PDF that reports our findings.
