@@ -11,7 +11,7 @@ various angles on the effect of weather on COVID-19 and offer possible solutions
 information extracted from the datasets for mortality rate, ozone levels, and humidity levels through visualization of graphs. Our results
 showed high COVID-19 mortality rate across latitude 40° with generally warm weather patterns.
 
-The research conducted in this report consists of data from January to April during the early beginnings of the Coronavirus.
+The research conducted in this report consists of data from January to April during the early beginnings of the COVID-19 Pandemic.
 
 #### Files included in this repository are:
   
