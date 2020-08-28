@@ -15,7 +15,7 @@ The research conducted in this report consists of data from January to April dur
 
 #### Files included in this repository are:
 
-**NOTE: EACH FILE HAS A README FOR ALL USED FILES.**
+**NOTE: EACH FOLDER HAS A README FOR ALL USED FILES.**
 
 1. Folder: CSCI_191T_Code
    - Python Files (.ipynb) ran on Jupyter Notebook and .csv files with their respective links to their data sets
