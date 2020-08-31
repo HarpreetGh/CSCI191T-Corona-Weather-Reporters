@@ -1,4 +1,4 @@
-# The Study of Weather effects on COVID-19
+# The Study of Weather Effects on COVID-19
 
 ## CSCI191T - Big Data Analytics Project
 
