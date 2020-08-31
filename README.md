@@ -2,7 +2,7 @@
 
 ## CSCI191T - Big Data Analytics Project
 
-A team project consisting of 6 other team members conducting research of the weather effects on COVID-19 
+A team project consisting of 6 team members conducting research of the weather effects on COVID-19 
 
 Using datasets on COVID-19 mortality rate and weather aspects such as temperature, ozone levels, and humidity levels
 with dates persisting through the pandemic, we present our method of analyzing weather effects with mortality rate to see if weather
