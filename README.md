@@ -20,6 +20,8 @@ The research conducted in this report consists of data from January to April dur
    2. Libraries: Pandas, Geopandas, Numpy, Matplotlib,
 1. **Microsoft Excel**
    1. for .csv files data import
+3. **LaTeX**
+   1. Report Tempalte and Creation
 
 #### Files included in this repository are:
 
