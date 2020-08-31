@@ -13,12 +13,13 @@ showed high COVID-19 mortality rate across latitude 40° with generally warm wea
 
 The research conducted in this report consists of data from January to April during the early beginnings of the COVID-19 Pandemic.
 
-1. **Tools and Technologies Used:**
-   1.Jupyter Notebook (Anaconda Navigator).
-      1. Language: Python
-      2. Libraries: Pandas, Geopandas, Numpy, Matplotlib,
-  1. Microsoft Excel
-      1. for .csv files data import
+#### **Tools and Technologies Used:**
+  
+1.Jupyter Notebook (Anaconda Navigator).
+   1. Language: Python
+   2. Libraries: Pandas, Geopandas, Numpy, Matplotlib,
+1. Microsoft Excel
+   1. for .csv files data import
 
 #### Files included in this repository are:
 
