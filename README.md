@@ -13,19 +13,26 @@ showed high COVID-19 mortality rate across latitude 40° with generally warm wea
 
 The research conducted in this report consists of data from January to April during the early beginnings of the COVID-19 Pandemic.
 
+1. **Tools and Technologies Used:**
+   1.Jupyter Notebook (Anaconda Navigator).
+      1. Language: Python
+      2. Libraries: Pandas, Geopandas, Numpy, Matplotlib,
+  1. Microsoft Excel
+      1. for .csv files data import
+
 #### Files included in this repository are:
 
 **NOTE: EACH FOLDER HAS A README FOR ALL USED FILES.**
 
-1. Folder: CSCI_191T_Code
+1. **Folder: CSCI_191T_Code**
    - Python Files (.ipynb) ran on Jupyter Notebook and .csv files with their respective links to their data sets
-2. Folder: Data-Divers-Report
+2. **Folder: Data-Divers-Report**
    - LaTeX files, PDF, graph images for our report.
-3. Folder: Gannt Chart & Workflow
+3. **Folder: Gannt Chart & Workflow**
    - Ganttchart workflow depicting the flow and schedule for this project.
-4. File: COVID Weather.ppt
+4. **File: COVID Weather.ppt**
    - Powerpoint presentation of our research
-5. File: The Study of Weather Effects on COVID-19.pdf
+5. **File: The Study of Weather Effects on COVID-19.pdf**
    - PDF that reports our findings.
 
 ##### Video link below of a powerpoint presentation video showcasing the results of our research
