@@ -21,7 +21,7 @@ The research conducted in this report consists of data from January to April dur
 1. **Microsoft Excel**
    1. for .csv files data import
 3. **LaTeX**
-   1. Report Tempalte and Creation
+   1. Report Template and Creation
 
 #### Files included in this repository are:
 
