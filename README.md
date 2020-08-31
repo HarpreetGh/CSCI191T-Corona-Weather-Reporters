@@ -15,10 +15,10 @@ The research conducted in this report consists of data from January to April dur
 
 #### **Tools and Technologies Used:**
   
-1.Jupyter Notebook (Anaconda Navigator).
+1. **Jupyter Notebook (Anaconda Navigator)**
    1. Language: Python
    2. Libraries: Pandas, Geopandas, Numpy, Matplotlib,
-1. Microsoft Excel
+1. **Microsoft Excel**
    1. for .csv files data import
 
 #### Files included in this repository are:
